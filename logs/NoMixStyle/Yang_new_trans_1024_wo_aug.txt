@@ -1,0 +1,18 @@
+Real PAD data: ./MSU_SFD.csv 
+ model_name: Yang pretrained, lr: 0.001, prefix: Yang_new_trans, bs: 16 
+Real PAD data: ./MSU_SFD.csv 
+ model_name: Yang pretrained, lr: 0.001, prefix: Yang_new_trans, bs: 16 
+Real PAD data: ./MSU_SFD.csv 
+ model_name: Yang pretrained, lr: 0.001, prefix: Yang_new_trans, bs: 8 
+Epoch: 1, Loss: 0.5012, lr: 0.001000 
+Test: AUC_1= 0.9013, HTER_1= 0.1571
+Epoch: 2, Loss: 0.4661, lr: 0.000998 
+Test: AUC_1= 0.8844, HTER_1= 0.1619
+Epoch: 3, Loss: 0.4379, lr: 0.000996 
+Test: AUC_1= 0.8583, HTER_1= 0.1905
+Epoch: 4, Loss: 0.4259, lr: 0.000994 
+Test: AUC_1= 0.9125, HTER_1= 0.1619
+Epoch: 5, Loss: 0.4176, lr: 0.000992 
+Test: AUC_1= 0.9048, HTER_1= 0.1929
+Epoch: 6, Loss: 0.4097, lr: 0.000990 
+Test: AUC_1= 0.9214, HTER_1= 0.1286

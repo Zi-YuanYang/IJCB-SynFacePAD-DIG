@@ -1,0 +1,1 @@
+python train_Yang.py --prefix Yang_new_trans_1024_aug --model_name Yang --batch_size 14 --intra_fe 1024
