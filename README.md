@@ -35,7 +35,7 @@ If you have any question or suggestion to our method, please feel free to contac
 If you think our codes are valuable to your works, please cite the competition paper.
 
 ```
-@inproceedings{rong2022channel,
+@inproceedings{ijcb2023synfacepad,
   title={SynFacePAD 2023: Competition on Face Presentation Attack Detection Based on Privacy-aware Synthetic Training Data},
   author={Fang, Meiling and Huber, Marco and Fierrez, Julian, Ramachandra, Raghavendra and Damer, Naser and Alkhaddour, Alhasan and Kasantcev, Maksim and Pryadchenko, Vasiliy and Yang, Ziyuan and Huangfu, Huijie and Chen, Yingyu and Zhang, Yi and others},
   booktitle={2023 IEEE International Joint Conference on Biometrics (IJCB)},
